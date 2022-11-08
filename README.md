@@ -1,4 +1,4 @@
-[Demo]( https://kameiko-n.github.io/simple-calculator/)
+[Demo]( )
 
 # Getting Started with Create React App
 
