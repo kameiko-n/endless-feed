@@ -1,6 +1,6 @@
 Used React
 
-[Demo]( https://kameiko-n.github.io/endless-news-feed/ )
+[Demo]( https://kameiko-n.github.io/endless-feed/ )
 
 
 
